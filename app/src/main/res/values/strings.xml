@@ -1,0 +1,152 @@
+<resources>
+    <string name="app_name">E commerce</string>
+    <string name="logo">logo</string>
+    <string name="title_login">Login</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="user_name">user name</string>
+    <string name="password">password</string>
+    <string name="register_ask">Register?</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="log_in">Log In</string>
+    <string name="first_name">First name</string>
+    <string name="second_name">Second name</string>
+    <string name="email_id">Email ID</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="i_agree_to_the">I Agree To The</string>
+    <string name="terms_condition"><u><![CDATA[Terms&Condition]]></u></string>
+    <string name="register"><u>REGISTER</u></string>
+    <string name="already_have_an_account">Already Have an account?</string>
+    <string name="login"><u>Login</u></string>
+
+    <!--register errors-->
+    <string name="create_an_account">create an account</string>
+    <string name="err_msg_enter_first_name">Please enter first name.</string>
+    <string name="err_msg_enter_last_name">Please enter last name.</string>
+    <string name="err_msg_enter_email">Please enter email.</string>
+    <string name="err_msg_enter_password">Please enter password.</string>
+    <string name="err_msg_enter_confirm_password">Please enter confirm password.</string>
+    <string name="err_msg_password_and_confirm_password_mismatch">Password and confirm password does not match.</string>
+    <string name="err_msg_agree_terms_and_condition">Please agree terms and condition.</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="reset_password_inform">Typr your name or password and yiu willl recevie a mail to reset the password</string>
+    <string name="submit">Submit</string>
+    <string name="mail_et">enter mail here</string>
+    <string name="forget_password_screen">Forget Password Screen</string>
+    <string name="register_success">You have Register successfully</string>
+    <string name="toolbar_profile">Profile</string>
+
+    <string name="title_complete_profile">COMPLETE PROFILE</string>
+    <string name="et_hint_mobile_number">Mobile Number</string>
+    <string name="rb_lbl_male">MALE</string>
+    <string name="rb_lbl_female">FEMALE</string>
+    <string name="btn_lbl_save">Save</string>
+    <string name="profile_hint_email">E-mail</string>
+    <string name="image_selection_failed">image selection faild</string>
+    <string name="msg_profile_update_success">user details updated successfuly</string>
+    <string name="title_activity_dashboard">MainActivity</string>
+    <string name="title_products">Products</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_orders">Orders</string>
+    <string name="action_setting">Setting</string>
+    <string name="setting">Settings</string>
+    <string name="profile_image">profileImage</string>
+    <string name="lbl_edit">Edit</string>
+    <string name="lbl_addresses">Address</string>
+    <string name="content_description">address arrow</string>
+    <string name="btn_lbl_logout">LogOut</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="add_product_action">Add Product</string>
+    <string name="add_product_title">Add Prduct Title</string>
+    <string name="add_product_price">Ad Product Price</string>
+    <string name="add_desciption">Add desciption of the product min 3 lines</string>
+    <string name="read_storage_permission_denide">"please grante the permission to choose and uplode image "</string>
+    <string name="image_error">you didn\'t upload image</string>
+    <string name="title_error">Enter product Title</string>
+    <string name="price_error">PLease Enter Price</string>
+    <string name="desciprion_error">please add Desription</string>
+    <string name="quantity_error">Please enter Quantity</string>
+    <string name="add_product_quantity">add products quantities</string>
+    <string name="no_added_string">There is no Products Yet</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="delete_alert_title">Delete</string>
+    <string name="delete_alert_message">Are you sure want to delete?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="title_product_details">Product Details</string>
+    <string name="lbl_product_description">description</string>
+    <string name="lbl_product_details_stock_quantity">Quantity</string>
+    <string name="albl_btn_add_to_cart">ADD TO CART</string>
+    <string name="btn_lbl_go_to_cart">GO TO CART</string>
+
+    <string name="title_my_cart">MY CART</string>
+    <string name="no_cart_item_found">No item found in cart!</string>
+    <string name="lbl_subtotal">Subtotal</string>
+    <string name="lbl_shipping_charge">Shipping Charge</string>
+    <string name="lbl_total_amount">Total Amount</string>
+    <string name="btn_lbl_checkout">Checkout</string>
+    <string name="action_cart">My Cart</string>
+
+    <string name="lbl_out_of_stock">OUT OF STOCK</string>
+    <string name="msg_item_removed_successfully">Item removed successfully.</string>
+    <string name="lbl_title">Title</string>
+    <string name="lbl_price">Price</string>
+
+
+    <string name="title_address_list">ADDRESS LIST</string>
+    <string name="no_address_found">No Address Found!</string>
+    <string name="lbL_add_address">Add Address</string>
+
+    <string name="title_add_address">ADD ADDRESS</string>
+    <string name="hint_full_name">Full name</string>
+    <string name="hint_phone_number">Phone number</string>
+    <string name="hint_address">Address</string>
+    <string name="hint_zip_code">ZipCode</string>
+    <string name="hint_additional_note">Additional note</string>
+    <string name="hint_other_details">Other details</string>
+    <string name="lbl_home">HOME</string>
+    <string name="lbl_office">OFFICE</string>
+    <string name="lbl_other">OTHER</string>
+
+
+    <string name="err_msg_please_enter_full_name">Please enter full name.</string>
+    <string name="err_msg_please_enter_phone_number">Please enter phone number.</string>
+    <string name="err_msg_please_enter_address">Please enter address.</string>
+    <string name="err_msg_please_enter_zip_code">Please enter zip-code.</string>
+    <string name="err_msg_please_enter_other_details">Please enter other details.</string>
+
+    <string name="err_your_address_added_successfully">Your address is added successfully.</string>
+
+    <string name="title_edit_address">EDIT ADDRESS</string>
+    <string name="btn_lbl_update">UPDATE</string>
+    <string name="msg_your_address_updated_successfully">Your address is updated successfully.</string>
+
+    <string name="err_your_address_deleted_successfully">Your address is deleted successfully.</string>
+    <string name="btn_lbl_submit">SUBMIT</string>
+    <string name="title_select_address">SELECT ADDRESS</string>
+
+    <string name="title_checkout">CHECKOUT</string>
+    <string name="checkout_lbl_product_items">Product Items</string>
+    <string name="checkout_lbl_selected_address">Selected Address</string>
+    <string name="checkout_lbl_items_receipt">Items Receipt</string>
+    <string name="lbl_payment_mode">Payment Mode</string>
+    <string name="lbl_cash_on_delivery">Cash On Delivery</string>
+    <string name="btn_lbl_place_order">PLACE ORDER</string>
+    <string name="no_placed_orders_yet">No placed orders yet!</string>
+
+    <string name="title_my_order_details">MY ORDER DETAILS</string>
+    <string name="order_details_lbl">Order Details</string>
+    <string name="order_details_lbl_order_id">Order ID</string>
+    <string name="order_details_lbl_order_date">Order Date</string>
+    <string name="order_details_lbl_order_status">Order Status</string>
+    <string name="order_status_pending">Pending</string>
+    <string name="order_details_lbl_shipping_address">Shipping Address</string>
+
+    <string name="order_status_in_process">In Process</string>
+    <string name="order_status_delivered">Delivered</string>
+
+    <string name="title_sold_products">Sold Products</string>
+    <string name="no_products_sold_out_yet">No products sold out yet!</string>
+
+    <string name="title_sold_product_details">SOLD PRODUCT DETAILS</string>
+</resources>

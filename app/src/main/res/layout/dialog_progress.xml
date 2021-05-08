@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:orientation="horizontal">
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        android:layout_width="@dimen/progress_bar_size"
+        android:layout_height="@dimen/progress_bar_size"
+        android:layout_margin="5dp"
+ />
+
+    <TextView
+
+        android:id="@+id/progress_tv"
+        android:layout_width="90dp"
+        android:layout_height="17dp"
+        android:text="@string/please_wait"
+        android:textColor="@color/white"
+        android:textSize="@dimen/progress_text_size"
+        android:layout_margin="15dp"
+
+  />
+
+</LinearLayout>
